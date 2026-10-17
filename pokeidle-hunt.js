@@ -1,3 +1,16 @@
+// ==UserScript==
+// @name         /hunt for PokeIdle
+// @namespace    pokeidle-hunt
+// @version      1.0.4
+// @description  Mostra as melhores hunts por XP/h e ouro/h usando os dados atuais do PokeIdle
+// @match        https://pokeidle.io/*
+// @match        https://poke.idleworld.online/*
+// @grant        none
+// @run-at       document-start
+// @updateURL    https://raw.githubusercontent.com/panicguy/pokeidle-hunt/main/pokeidle-hunt.js
+// @downloadURL  https://raw.githubusercontent.com/panicguy/pokeidle-hunt/main/pokeidle-hunt.js
+// ==/UserScript==
+
 /*
  * /hunt for PokeIdle — integração direta no jogo
  * Convertido da extensão v1.0.3 autorizada pelo autor/usuário.
